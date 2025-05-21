@@ -26,7 +26,7 @@ Just open `index.html` in your browser:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/space-game.git
+git clone https://github.com/the-saikrishna1/space-game.git
 cd space-game
 
 # Open the game
